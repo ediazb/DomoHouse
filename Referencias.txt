@@ -1,0 +1,11 @@
+Conexionado de LDR:
+http://arduino.cc/es_old/Ejercicios/LDR
+
+Conexionado de PIR:
+http://www.arduino.cc/es_old/Tutoriales/PIR
+
+Comunicación bluetooth:
+http://blog.iteadstudio.com/make-arduino-talk-with-android-by-bluetooth/
+
+Librería para gráficos:
+http://code.google.com/p/achartengine/ 
